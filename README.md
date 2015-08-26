@@ -1,5 +1,5 @@
 # episode-004
-Where we bind a variables
+Where we bind a variable
 
 ## Setup
 We need to prepare
