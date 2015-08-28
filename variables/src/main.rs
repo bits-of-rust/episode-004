@@ -1,3 +1,6 @@
 fn main() {
-    println!("Hello, {}!", "world");
+	let subject = "world";
+
+    println!("Hello, {}!", subject);
+    println!("Goodbye, {}!", subject);
 }
