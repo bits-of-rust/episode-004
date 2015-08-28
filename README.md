@@ -8,7 +8,7 @@ We need to prepare
 * A `println!` call with an argument
 
 ## Script
-Variables our a way to reuse certain values in your program. We start from the a familiar `println!` expression.
+Variables are a way to reuse certain values in your program. We start from the a familiar `println!` expression.
 
 ```rust
 println!("Hello, {}!", "world");
